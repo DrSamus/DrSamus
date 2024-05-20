@@ -17,7 +17,7 @@
 
 - 😺 git commit -m "¡Hola Amigos!".
   
-- 🍔 Fun fact: I like de burguers.
+- 🍔 Fun fact: I like the burguers.
 </div>
 </div>
 <br>
